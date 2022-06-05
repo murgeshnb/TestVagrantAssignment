@@ -12,7 +12,7 @@ STEPS:
  --jackson-core[2.13.2]
  --jackson-databind[2.13.2.2] 
  --lombok[1.18.24]
- FYI-> check for the dependencies, sometimes we may get CTE
+ FYI-> check for the dependencies, sometimes we may get RTE
  
  
  3.Create APi folder and create .json file and paste the given json data
